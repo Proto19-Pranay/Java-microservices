@@ -1,0 +1,15 @@
+user-service
+	port: 9001
+	/user/7328
+
+contact-service
+	port: 9002
+
+apigateway
+	port: 8999
+
+e-server
+	port: 8761
+
+Hystrix-Dashboard
+	port: 9555
